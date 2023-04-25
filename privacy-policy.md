@@ -20,4 +20,7 @@ We save your [Discord](https://discord.com) data, in our [Discord Server](https:
 - User ID
 - Usernames
 - Avatars
-- d
+- discriminators
+- Dates (Joinded To Server + Discord Account Created)
+- Status
+- Encoded Username
