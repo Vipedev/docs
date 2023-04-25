@@ -31,4 +31,16 @@ We save only the visit and input datas from the websites.
 
 
 ### 1.3 What for?
-We save your data for fututre. If you ever lose something, you need to save your passwords yourself. Any data from Discord we save, is public information and anyone can view them.
+We save your data for fututre. If you ever lose something, you need to save your passwords yourself. Any data from Discord we save, is public information and anyone can view them. Your data is used for analytics, giving a punishments, and promoting you.
+
+
+## 2. If we share those, with who do we share them?
+
+## 2.1 Google
+We use googles as a service, to see visits of our website, links and places where you found them, and we list these up.
+
+### The Services:
+- Google Analytics
+- Google Business
+- Google Workspace
+- Google Forms
