@@ -44,3 +44,15 @@ We use googles as a service, to see visits of our website, links and places wher
 - Google Business
 - Google Workspace
 - Google Forms
+
+## 2.2 Discord
+If you break rules of [Discord Terms of Servive](https://discord.com/terms), [Discord Community Guidelines](https://discord.com/guidelines) or [Discord Privacy Policy Notice](https://discord.com/privacy), we will report you to Discord's moderation team.
+
+
+# 3. Contact Lodurs Technlogies Ltd
+
+Here is the places, for Lodurs Technologies Ltd.
+
+- [Email](mailto:support@lodurs.com)
+- [Contact Form](https://lodurs.com/support)
+- [Address](https://goo.gl/maps/Z8TEa4nrfVHbPJ3j9) <---- Will be opened in a Google Maps.
