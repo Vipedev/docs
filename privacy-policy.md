@@ -24,3 +24,11 @@ We save your [Discord](https://discord.com) data, in our [Discord Server](https:
 - Dates (Joinded To Server + Discord Account Created)
 - Status
 - Encoded Username
+
+### 1.2 Website Data
+
+We save only the visit and input datas from the websites.
+
+
+### 1.3 What for?
+We save your data for fututre. If you ever lose something, you need to save your passwords yourself. Any data from Discord we save, is public information and anyone can view them.
