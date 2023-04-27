@@ -18,6 +18,8 @@ Discord also uses a ID system for everything. Channels, roles, servers, emojis, 
 
 # Websites
 
-## Domain, Subdomain, URL, and TLD
-In website service we know a few terms as well. First one is domain. Domain is the base Uniform Resource Locator, alias "URL". These are usually called links. The link may be something like "docs.lodurs.com" and here the main domain is the "lodurs.com". Full domain is separated in multiple different parts. Heres a example:
-"https://docs.lodurs.com/support/domain/index.html" So the parts is something like "HTTPS" as "Hypertext Transfer Protocol (Secure)" aka "HTTP" or "HTTPS".. Sub Domains like something before the main page's domain. Like "docs". so now it is "https://docs", now the main domain content, is the url's base. The heading website. Like in this situation, it is "lodurs". "https://docs.lodurs".. Now we need to get a Top Level Domain. which is something like ".com" or ".net". It's also known as "TLD". "https://docs.lodurs.com".. So now it will go where we've asked it to go. But the actual whole domain keeps getting longer. The location where to go, is the folder's page. It's a thing like "folder" slash for separate, "/", and then the file for "page" or a new folder.. So it's like "folder/folder" or "folder/page".. Now it is "https://docs.lodurs.com/support/domain/". Now In our full domain, it will be called as " https://docs.lodurs.com/support/domain/index". Something missing? Yes, the file type is missing. To make it as Hypertext Markup Language (HTML) you add a .html at the end. Here we are, "https://docs.lodurs.com/support/domain/index.html".
+Now you have abilities to learn some things from Websites, like domains and more. While we are teaching you stuff about domains, we will speak about "https://en.lodurs.com/docs/terms-of-service.html"
+
+## HTTPS, HTTP or LOCAL:
+
+HTTPS and HTTP stands for Hypertext Transforming Protocol (Secure). It basically means that the HTML files will be displayed in web browser (HTML = HyperText Markup Language). Local means a file inside your laptop, but it is not yet in internet. Local locations is C: or 127.0.0.1. C: is called path, and 127.0.0.1 is computer's localhost. In computer networking, localhost is a hostname that refers to the current device used to access it
